@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "it",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Uguale o Diverso",
+    "activity.uguale_o_diverso.title": "Uguale o Diverso",
+    "victory.title": "Che occhio attento!",
+    "victory.subtitle": "Hai trovato l'immagine uguale ogni volta!",
+    "button.play_again": "Ancora"
+  },
+  "audio": {}
+}

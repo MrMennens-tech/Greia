@@ -1,0 +1,54 @@
+[activity]
+id = "org.greia.uguale-o-diverso"
+legacy_ids = []
+title_key = "activity.uguale_o_diverso.title"
+version = "0.1.0"
+icon = "package:assets/icon.png"
+languages = ["it", "en", "es", "fr"]
+
+[presentation]
+categories = ["learn", "play"]
+discovery_tags = ["puzzles"]
+
+[achievement_art]
+emblems = [
+  { id = "activity", asset = "assets/icon.png" },
+]
+
+[education]
+categories = ["visual_discrimination", "visual_matching", "attention", "spatial_reasoning"]
+difficulty = 2
+recommended_age_min = 3
+recommended_age_max = 7
+difficulty_min = 1
+difficulty_max = 5
+adaptive_difficulty = true
+skills = [
+  { id = "cognition.matching.identical", weight = 3 },
+  { id = "cognition.discrimination.visual", weight = 3 },
+  { id = "cognition.spatial.mirror_images", weight = 2 },
+  { id = "cognition.dimensions.comparison", weight = 1 },
+  { id = "motor.pointer.target_selection", weight = 1 },
+]
+events = [
+  { id = "uguale.round_solved", kind = "milestone" },
+  { id = "uguale.visit_completed", kind = "completion" },
+]
+
+[runtime]
+type = "python"
+api_version = "0.1"
+entrypoint = "main.py"
+
+[input]
+profile = "hybrid"
+
+[requirements]
+required_capabilities = ["display", "pointer", "audio.basic"]
+optional_capabilities = ["keyboard", "touch"]
+
+[permissions]
+requested = []
+
+[storage]
+schema_version = 1

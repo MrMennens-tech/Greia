@@ -61,6 +61,7 @@ BOUNDS: dict[str, int] = {
     "payload.get('pairs', 0)": 4,
     "payload.get('found', 0)": 4,
     "payload.get('order', 0)": 4,
+    "payload.get('round', 0)": 4,
     "char": 1,
     "value": 2,
     "category.value": len("open_closed"),

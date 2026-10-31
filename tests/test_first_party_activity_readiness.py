@@ -195,6 +195,7 @@ class FirstPartyActivityReadinessTests(unittest.TestCase):
                 "teatrino_fiabe",
                 "torre_forme",
                 "treno_numeri",
+                "uguale_o_diverso",
                 "viaggio_delfino",
                 "volo_draghetto",
                 "workshop_settings",

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Hetzelfde of Anders",
+    "activity.uguale_o_diverso.title": "Hetzelfde of Anders",
+    "victory.title": "Goed gekeken!",
+    "victory.subtitle": "Je vond elke keer hetzelfde plaatje!",
+    "button.play_again": "Nog een keer"
+  },
+  "audio": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Same or Different",
+    "activity.uguale_o_diverso.title": "Same or Different",
+    "victory.title": "Great looking!",
+    "victory.subtitle": "You found the matching picture every time!",
+    "button.play_again": "Again"
+  },
+  "audio": {}
+}

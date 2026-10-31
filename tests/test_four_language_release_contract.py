@@ -80,7 +80,7 @@ class RegistryAndSelectorTests(unittest.TestCase):
 class ActivityLanguageTests(unittest.TestCase):
     def test_every_builtin_activity_declares_exactly_the_released_languages(self) -> None:
         activities = _builtin_activities()
-        self.assertEqual(len(activities), 45)
+        self.assertEqual(len(activities), 46)
         for root in activities:
             with self.subTest(activity=root.name):
                 manifest = tomllib.loads((root / "activity.toml").read_text(encoding="utf-8"))
@@ -169,7 +169,7 @@ class SpokenAssetParityTests(unittest.TestCase):
 
         titles = audit_activities()
         self.assertEqual(titles["ACTIVITY_TITLE_COMPLETE"], titles["ACTIVITY_TITLE_LOCALE_COMBINATIONS"])
-        self.assertEqual(titles["ACTIVITY_TITLE_LOCALE_COMBINATIONS"], 45 * len(RELEASED))
+        self.assertEqual(titles["ACTIVITY_TITLE_LOCALE_COMBINATIONS"], 46 * len(RELEASED))
         labels = audit_collections()
         self.assertEqual(labels["COLLECTION_MISSING"], [])
 

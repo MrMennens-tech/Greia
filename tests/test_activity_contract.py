@@ -67,6 +67,7 @@ class ActivityContractTests(unittest.TestCase):
                 "org.greia.teatrino-fiabe",
                 "org.greia.torre-forme",
                 "org.greia.treno-numeri",
+                "org.greia.uguale-o-diverso",
                 "org.greia.viaggio-delfino",
                 "org.greia.volo-draghetto",
                 "org.greia.workshop-settings",

@@ -21,7 +21,7 @@ STAGED = (
     "bosco_numeri", "il_giardino_dei_numeri", "faccine_momo",
     "luci_di_momo", "costruiamo_ponti", "casa_del_dieci",
     "workshop_settings", "specchi_magici", "nascondino_bosco",
-    "nanna_delle_nuvolette", "orchestra_animali", "treno_numeri",
+    "nanna_delle_nuvolette", "orchestra_animali", "treno_numeri", "uguale_o_diverso",
     "quattro_amici", "pasticceria_magica",
     "baia_delle_orche", "cucciolo_mio", "la_discesa_della_biglia",
     "labirinto_magico", "mondo_contrari", "morbidi_mostriciattoli",
@@ -215,7 +215,7 @@ class StagedActivityTranslationTests(unittest.TestCase):
         registered = set(STAGED) | set(CURRICULUM_UI_ONLY)
         self.assertEqual(actual, registered)
         self.assertTrue(set(STAGED).isdisjoint(CURRICULUM_UI_ONLY))
-        self.assertEqual(len(actual), 45)
+        self.assertEqual(len(actual), 46)
 
     def test_encyclopedia_complete_written_catalogue_is_not_spoken_acceptance(self) -> None:
         base = ROOT / "activities/enciclopedia_greia"

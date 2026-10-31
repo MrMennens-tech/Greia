@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "fr",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Pareil ou Différent",
+    "activity.uguale_o_diverso.title": "Pareil ou Différent",
+    "victory.title": "Quel regard attentif !",
+    "victory.subtitle": "Tu as trouvé la même image à chaque fois !",
+    "button.play_again": "Encore"
+  },
+  "audio": {}
+}
