@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.painting.title": "Vrij Schilderen",
+    "activity.title": "Vrij Schilderen",
+    "btn.new": "Nieuw",
+    "btn.undo": "Ongedaan maken",
+    "btn.clear": "Wissen",
+    "btn.eraser": "Gum",
+    "status.saved": "Opgeslagen",
+    "status.saving": "Opslaan…",
+    "status.error": "Fout"
+  },
+  "audio": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Bessenrace",
+    "activity.corsa_bacche.title": "Bessenrace",
+    "victory.title": "De mand is vol!",
+    "btn.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

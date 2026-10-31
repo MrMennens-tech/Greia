@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Klankwerkplaats",
+    "activity.officina_dei_suoni.title": "Klankwerkplaats",
+    "prompt.find_sound": "Luister naar het geluid en zoek het plaatje!",
+    "prompt.first_sound": "Wat is de beginklank?",
+    "prompt.build_word": "Leg de letter neer om het woord te bouwen!",
+    "button.play_again": "Opnieuw spelen",
+    "victory.title": "Goed klankwerk!",
+    "victory.subtitle": "Dani's Klankmachine maakte elk woord!"
+  },
+  "audio": {}
+}

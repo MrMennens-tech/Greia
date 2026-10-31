@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.mondo_contrari.title": "Tegenstellingenwereld",
+    "activity.title": "Tegenstellingenwereld",
+    "opposite.up": "Omhoog",
+    "opposite.down": "Omlaag",
+    "opposite.big": "Groot",
+    "opposite.small": "Klein",
+    "opposite.in": "Binnen",
+    "opposite.out": "Buiten",
+    "opposite.open": "Open",
+    "opposite.closed": "Dicht",
+    "opposite.fast": "Snel",
+    "opposite.slow": "Langzaam",
+    "button.play_again": "Opnieuw spelen",
+    "victory.title": "Tegenstellingenkampioen!",
+    "victory.subtitle": "Je vond met Flash elke tegenstelling!"
+  },
+  "audio": {}
+}

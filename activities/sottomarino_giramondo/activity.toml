@@ -4,7 +4,7 @@ legacy_ids = []
 title_key = "activity.title"
 version = "0.2.0"
 icon = "package:assets/icon.png"
-languages = ["it", "en", "es", "fr"]
+languages = ["it", "en", "es", "fr", "nl"]
 
 [presentation]
 categories = ["play", "explore"]

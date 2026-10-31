@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Mijn Lief Huisdier",
+    "adopt.prompt": "Kies je huisdier",
+    "name.prompt": "Kies een naam",
+    "pet.puppy": "Puppy",
+    "pet.kitten": "Kitten",
+    "pet.guinea_pig": "Cavia",
+    "name.moon": "Maan",
+    "name.sun": "Zon",
+    "name.flower": "Bloem",
+    "name.apple": "Appel",
+    "victory.title": "Slaap lekker, $name!",
+    "victory.subtitle": "Je huisdier heeft een heerlijke dag met je gehad.",
+    "btn.new_day": "Nieuwe dag"
+  },
+  "audio": {}
+}

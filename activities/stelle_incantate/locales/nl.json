@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Betoverde Sterren",
+    "activity.stelle_incantate.title": "Betoverde Sterren",
+    "activity.stelle_incantate.description": "Laat de sterren oplichten in volgorde van getallen — van 1 tot 5, daarna tot 20, vooruit en terug tellen — en zie met Leo een plaatje verschijnen aan de nachtelijke hemel.",
+    "constellation.triangolo.name": "De Driehoek",
+    "constellation.cassiopea.name": "Cassiopeia",
+    "constellation.cigno.name": "De Zwaan",
+    "constellation.carro.name": "De Grote Beer",
+    "constellation.leone.name": "De Leeuw",
+    "constellation.orione.name": "Orion",
+    "constellation.aquilone.name": "De Vlieger",
+    "constellation.casetta.name": "Het Huisje",
+    "constellation.pesce.name": "De Vis",
+    "constellation.razzo.name": "De Raket",
+    "constellation.barca.name": "De Zeilboot",
+    "constellation.farfalla.name": "De Vlinder",
+    "constellation.balena.name": "De Walvis",
+    "curiosity.triangolo.fact": "Er zijn 88 officiële sterrenbeelden, gekozen door sterrenkundigen over de hele wereld!",
+    "curiosity.cassiopea.fact": "Cassiopeia was een koningin uit oude verhalen: haar W van sterren schijnt nog elke nacht.",
+    "curiosity.cigno.fact": "De Zwaan vliegt door de zomerhemel met zijn sterren in de vorm van een groot kruis.",
+    "curiosity.carro.fact": "De twee sterren aan de rand van de Grote Beer wijzen de weg naar de Poolster!",
+    "curiosity.leone.fact": "De Leeuw is een heel oud sterrenbeeld: mensen kijken er al duizenden jaren naar.",
+    "curiosity.orione.fact": "De sterren van een sterrenbeeld lijken dicht bij elkaar, maar veel staan in werkelijkheid ver, ver uit elkaar!",
+    "victory.title": "Wat een magische hemel!",
+    "victory.subtitle": "Je hebt de hele nachthemel laten stralen!",
+    "button.play_again": "Nog een keer!"
+  },
+  "audio": {}
+}

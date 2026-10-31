@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.quattro_amici.title": "Vier Vrienden op een Rij",
+    "activity.title": "Vier Vrienden op een Rij",
+    "ui.mode_vs_leo": "Met Leo",
+    "ui.mode_two_players": "Twee vrienden",
+    "ui.turn_flash": "Flash is aan de beurt!",
+    "ui.turn_leo": "Leo is aan de beurt!",
+    "ui.leo_thinking": "Leo denkt na...",
+    "ui.win_flash": "Flash heeft een rij!",
+    "ui.win_leo": "Leo heeft een rij!",
+    "ui.draw": "Gelijkspel! Goed gespeeld!",
+    "ui.play_again": "Opnieuw spelen",
+    "ui.match_won": "Je hebt de wedstrijd gewonnen!",
+    "ui.match_leo": "Leo won deze keer!",
+    "ui.match_tie": "Wat een wedstrijd!",
+    "ui.match_score": "Flash $flash · Leo $leo"
+  },
+  "audio": {}
+}

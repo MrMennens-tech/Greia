@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.storie_della_mia_voce.title": "Verhalen van mijn Stem",
+    "activity.title": "Verhalen van mijn Stem",
+    "story.momo_seed": "Momo plant een zaadje",
+    "story.tito_picnic": "Tito's picknick",
+    "story.leo_rain": "Leo's regendag",
+    "story.lilli_bedtime": "Lilli's bedtijd",
+    "story.dani_tower": "Dani's toren",
+    "story.legacy": "Mijn eerste verhalen",
+    "ui.my_stories": "Mijn verhalen",
+    "victory.title": "Wat een mooi verhaal!",
+    "button.new_story": "Nieuw verhaal",
+    "button.watch_again": "Nog eens kijken"
+  },
+  "audio": {}
+}

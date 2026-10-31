@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Magisch Doolhof",
+    "activity.labirinto_magico.title": "Magisch Doolhof",
+    "victory.title": "Hoera, Tito is er!",
+    "btn.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

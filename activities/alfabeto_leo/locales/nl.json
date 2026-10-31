@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.alfabeto_leo.title": "Leo's alfabet",
+    "activity.title": "Leo's alfabet",
+    "victory.title": "Je letters staan in bloei!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

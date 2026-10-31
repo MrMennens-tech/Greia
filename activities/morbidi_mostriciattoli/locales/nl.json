@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Pluizige Monsters",
+    "activity.morbidi_mostriciattoli.title": "Pluizige Monsters",
+    "activity.morbidi_mostriciattoli.description": "Bouw je eigen pluizige monstervriendje van grote plaatjesdelen, geef het een gekke naam, bewaar het in je galerij en deel het plaatje!"
+  },
+  "audio": {}
+}

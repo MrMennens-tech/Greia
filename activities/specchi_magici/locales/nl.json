@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Magische Spiegels",
+    "activity.specchi_magici.title": "Magische Spiegels",
+    "button.play_again": "Opnieuw spelen",
+    "victory.title": "Stralende Galerij!",
+    "victory.subtitle": "Alle mozaïeken laten hun magie schitteren met Lilli!"
+  },
+  "audio": {}
+}

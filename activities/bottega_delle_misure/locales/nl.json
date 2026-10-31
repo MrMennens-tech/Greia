@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "De Meetwerkplaats",
+    "activity.bottega_delle_misure.title": "De Meetwerkplaats",
+    "prompt.compare_longer": "Tik op het langste pakket!",
+    "prompt.compare_shorter": "Tik op het kortste pakket!",
+    "prompt.compare_taller": "Tik op het hoogste pakket!",
+    "prompt.compare_shorter_h": "Tik op het laagste pakket!",
+    "prompt.measure": "Meet het pakket met houten blokjes!",
+    "button.play_again": "Opnieuw spelen",
+    "victory.title": "De werkplaats is klaar!"
+  },
+  "audio": {}
+}

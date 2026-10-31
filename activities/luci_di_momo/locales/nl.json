@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Momo's Lichtjes",
+    "activity.luci_di_momo.title": "Momo's Lichtjes",
+    "prompt.choose": "Hoeveel lichtjes zag je?",
+    "victory.title": "De tuin gloeit!",
+    "victory.subtitle": "Momo's pot zit vol licht!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

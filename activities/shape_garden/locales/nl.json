@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.shape_garden.title": "Vormentuin",
+    "activity.title": "Vormentuin",
+    "shape.circle": "Cirkel",
+    "shape.square": "Vierkant",
+    "shape.triangle": "Driehoek",
+    "shape.rectangle": "Rechthoek",
+    "shape.star": "Ster",
+    "shape.heart": "Hart",
+    "shape.oval": "Ovaal",
+    "shape.diamond": "Ruit"
+  },
+  "audio": {}
+}

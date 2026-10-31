@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.faccine_momo.title": "Momo's Vrolijke Gezichtjes",
+    "activity.title": "Momo's Vrolijke Gezichtjes",
+    "button.play_again": "Opnieuw spelen",
+    "complete.body": "Bedankt dat je Momo hielp!",
+    "complete.title": "Momo voelt zich beter!",
+    "emotion.angry": "Boos",
+    "emotion.happy": "Blij",
+    "emotion.sad": "Verdrietig",
+    "emotion.silly": "Gek",
+    "emotion.sleepy": "Slaperig",
+    "emotion.surprised": "Verrast"
+  },
+  "audio": {}
+}

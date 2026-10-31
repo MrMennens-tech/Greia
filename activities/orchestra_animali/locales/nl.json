@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Magisch Orkest",
+    "victory.title": "Wat een concert!",
+    "victory.subtitle": "Je speelde mee met de hele band!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

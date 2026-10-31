@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.workshop_settings.title": "Mijn Greia",
+    "activity.title": "Mijn Greia",
+    "home.create": "Maken",
+    "home.my_creations": "Mijn creaties",
+    "home.play": "Spelen",
+    "home.learn": "Leren",
+    "home.explore": "Ontdekken",
+    "home.my_greia": "Mijn Greia"
+  },
+  "audio": {}
+}

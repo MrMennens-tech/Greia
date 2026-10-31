@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Vormentoren",
+    "activity.torre_forme.title": "Vormentoren",
+    "button.play_again": "Opnieuw bouwen",
+    "victory.title": "Wat een bouwer!",
+    "victory.subtitle": "Vijf bouwwerken, allemaal met Dani!"
+  },
+  "audio": {}
+}

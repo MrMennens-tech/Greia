@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Kleine Groene Vingers",
+    "victory.title": "Wat een oogst!",
+    "btn.play_again": "Meer laten groeien"
+  },
+  "audio": {}
+}

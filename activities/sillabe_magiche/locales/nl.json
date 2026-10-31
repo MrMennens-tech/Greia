@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Magische Lettergrepen",
+    "activity.sillabe_magiche.title": "Magische Lettergrepen",
+    "victory.title": "Geweldige lettergreeptrein!",
+    "victory.subtitle": "Leo's trein vervoerde elk woord!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

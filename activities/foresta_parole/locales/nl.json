@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Het Woordenbos",
+    "victory.title": "Je mand is vol!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

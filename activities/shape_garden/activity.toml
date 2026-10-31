@@ -4,7 +4,7 @@ legacy_ids = ["shape_garden"]
 title_key = "activity.shape_garden.title"
 version = "0.1.0"
 icon = "package:assets/icon.png"
-languages = ["*"]
+languages = ["*", "nl"]
 
 [presentation]
 categories = ["create", "learn"]

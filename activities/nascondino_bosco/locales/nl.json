@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Verstoppertje in het Bos",
+    "activity.nascondino_bosco.title": "Verstoppertje in het Bos",
+    "btn.play_again": "Opnieuw spelen",
+    "victory.title": "Je hebt ze allemaal gevonden!",
+    "victory.subtitle": "Lilli's vrienden uit het bos vonden verstoppertje heerlijk!",
+    "animal.hedgehog": "Egel",
+    "animal.squirrel": "Eekhoorn",
+    "animal.frog": "Kikker",
+    "animal.bear": "Beer",
+    "animal.deer": "Hert",
+    "animal.mouse": "Muis",
+    "animal.duck": "Eend",
+    "animal.snail": "Slak",
+    "animal.butterfly": "Vlinder",
+    "place.bush": "Achter de struik",
+    "place.bush_autumn": "Achter de struik",
+    "place.bush_snow": "Achter de struik",
+    "place.rock": "Achter de rots",
+    "place.log": "Achter de boomstam",
+    "place.mushroom": "Achter de paddenstoel",
+    "place.pumpkin": "Achter de pompoen",
+    "place.leaves": "Onder de bladeren",
+    "place.snow": "Onder de sneeuw",
+    "place.pond": "In de vijver"
+  },
+  "audio": {}
+}

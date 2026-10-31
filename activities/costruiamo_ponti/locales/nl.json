@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Bruggenbouwers",
+    "activity.costruiamo_ponti.title": "Bruggenbouwers",
+    "btn.go": "Start!",
+    "btn.play_again": "Opnieuw spelen",
+    "victory.title": "Elke vriend is bij de picknick aangekomen!"
+  },
+  "audio": {}
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Magische Bakkerij",
+    "action.serve": "Serveren!",
+    "action.save": "Bewaren",
+    "victory.title": "Iedereen is blij!",
+    "victory.subtitle": "Elke klant kreeg precies de taart die hij besteld had.",
+    "btn.play_again": "Opnieuw spelen",
+    "btn.own_cake": "Mijn taart"
+  },
+  "audio": {}
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Leo's Post",
+    "activity.posta_di_leo.title": "Leo's Post",
+    "activity.posta_di_leo.description": "Maak ansichtkaarten met plaatjes voor je vrienden en verstuur ze met Leo!",
+    "friend.leo": "Leo",
+    "friend.lilli": "Lilli",
+    "friend.momo": "Momo",
+    "friend.dani": "Dani",
+    "friend.tito": "Tito",
+    "friend.flash": "Flash"
+  },
+  "audio": {}
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.writing.title": "Schrijven & Woorden",
+    "activity.title": "Schrijven & Woorden",
+    "btn.new": "Nieuwe pagina",
+    "btn.undo": "Ongedaan maken",
+    "btn.clear": "Wissen"
+  },
+  "audio": {}
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Rijmfeest",
+    "activity.festa_delle_rime.title": "Rijmfeest",
+    "prompt.rhyme": "Luister en tik op de lantaarn die rijmt!",
+    "prompt.odd": "Tik op de lantaarn die niet rijmt!",
+    "prompt.sound": "Tik op de lantaarn met hetzelfde beginklank!",
+    "button.replay": "Luisteren",
+    "button.play_again": "Opnieuw spelen",
+    "victory.title": "Gloeiend Feest!",
+    "victory.subtitle": "Alle rijmlantaarns gloeien fel met Leo!"
+  },
+  "audio": {}
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.il_giardino_dei_numeri.title": "De Getallentuin",
+    "activity.title": "De Getallentuin",
+    "victory.title": "Je hebt ze allemaal geteld!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}

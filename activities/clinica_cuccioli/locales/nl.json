@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "locale": "nl",
+  "direction": "ltr",
+  "strings": {
+    "activity.title": "Kleine Dierenkliniek",
+    "victory.title": "Alle patiënten voelen zich beter!",
+    "victory.subtitle": "Bedankt dat je zo goed voor ze zorgde!",
+    "button.play_again": "Opnieuw spelen"
+  },
+  "audio": {}
+}
