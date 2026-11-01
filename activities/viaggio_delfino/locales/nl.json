@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "De Reis van de Dolfijn",
-    "activity.viaggio_delfino.title": "De Reis van de Dolfijn",
+    "activity.title": "De reis van de dolfijn",
+    "activity.viaggio_delfino.title": "De reis van de dolfijn",
     "journey.bay.name": "Zonnige Baai",
     "journey.reef.name": "Koraalrif",
     "journey.lagoon.name": "Gouden Lagune",
@@ -16,7 +16,7 @@
     "curiosity.delfino.breaching.caption": "Dolfijnen springen tot wel vier meter hoog uit het water! Ze doen het om te spelen en om vrienden ver weg te laten weten waar ze zijn.",
     "curiosity.delfino.echolocation.caption": "De dolfijn maakt kleine klikjes: door naar de echo's te luisteren vindt hij vis, ook waar hij niets kan zien!",
     "curiosity.delfino.blowhole.caption": "Een dolfijn is geen vis: het is een zoogdier! Hij ademt lucht in door het gat boven op zijn kop, het spuitgat.",
-    "curiosity.delfino.pods.caption": "Dolfijnen leven in families die groepen heten: samen drijven ze vis bijeen en houden ze elkaar veilig.",
+    "curiosity.delfino.pods.caption": "Dolfijnen leven samen in een familiegroep: samen drijven ze vis bijeen en houden ze elkaar veilig.",
     "curiosity.delfino.teeth.caption": "Een dolfijn heeft veel kleine tandjes, maar hij kauwt nooit: hij grijpt de vis en slikt hem in één keer door!",
     "curiosity.delfino.whistle.caption": "Elke dolfijn heeft zijn eigen speciale fluitje, bijna als een naam: zo herkennen vrienden hem!"
   },

@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Het Tienhuis",
-    "activity.casa_del_dieci.title": "Het Tienhuis",
+    "activity.title": "Het huis van tien",
+    "activity.casa_del_dieci.title": "Het huis van tien",
     "button.play_again": "Opnieuw spelen",
     "victory.title": "Het huis gloeit!",
     "victory.subtitle": "Je hebt met Dani elke kamer verlicht!"

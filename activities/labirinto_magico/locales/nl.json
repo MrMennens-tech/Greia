@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Magisch Doolhof",
-    "activity.labirinto_magico.title": "Magisch Doolhof",
+    "activity.title": "Magisch doolhof",
+    "activity.labirinto_magico.title": "Magisch doolhof",
     "victory.title": "Hoera, Tito is er!",
     "btn.play_again": "Opnieuw spelen"
   },

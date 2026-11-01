@@ -3,11 +3,11 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Magische Bakkerij",
+    "activity.title": "Magische bakkerij",
     "action.serve": "Serveren!",
     "action.save": "Bewaren",
     "victory.title": "Iedereen is blij!",
-    "victory.subtitle": "Elke klant kreeg precies de taart die hij besteld had.",
+    "victory.subtitle": "Elke klant kreeg precies de taart die ze had besteld.",
     "btn.play_again": "Opnieuw spelen",
     "btn.own_cake": "Mijn taart"
   },

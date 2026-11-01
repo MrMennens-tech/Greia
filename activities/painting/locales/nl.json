@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.painting.title": "Vrij Schilderen",
-    "activity.title": "Vrij Schilderen",
+    "activity.painting.title": "Vrij schilderen",
+    "activity.title": "Vrij schilderen",
     "btn.new": "Nieuw",
     "btn.undo": "Ongedaan maken",
     "btn.clear": "Wissen",

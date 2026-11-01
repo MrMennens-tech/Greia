@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Momo's Lichtjes",
-    "activity.luci_di_momo.title": "Momo's Lichtjes",
+    "activity.title": "Momo's lichtjes",
+    "activity.luci_di_momo.title": "Momo's lichtjes",
     "prompt.choose": "Hoeveel lichtjes zag je?",
     "victory.title": "De tuin gloeit!",
     "victory.subtitle": "Momo's pot zit vol licht!",

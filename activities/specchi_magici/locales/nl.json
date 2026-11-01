@@ -3,10 +3,10 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Magische Spiegels",
-    "activity.specchi_magici.title": "Magische Spiegels",
+    "activity.title": "Magische spiegels",
+    "activity.specchi_magici.title": "Magische spiegels",
     "button.play_again": "Opnieuw spelen",
-    "victory.title": "Stralende Galerij!",
+    "victory.title": "Stralende galerij!",
     "victory.subtitle": "Alle mozaïeken laten hun magie schitteren met Lilli!"
   },
   "audio": {}

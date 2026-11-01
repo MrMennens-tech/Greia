@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.quattro_amici.title": "Vier Vrienden op een Rij",
-    "activity.title": "Vier Vrienden op een Rij",
+    "activity.quattro_amici.title": "Vier vrienden op een rij",
+    "activity.title": "Vier vrienden op een rij",
     "ui.mode_vs_leo": "Met Leo",
     "ui.mode_two_players": "Twee vrienden",
     "ui.turn_flash": "Flash is aan de beurt!",

@@ -3,9 +3,9 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Kleine Dierenkliniek",
+    "activity.title": "Kleine dierenkliniek",
     "victory.title": "Alle patiënten voelen zich beter!",
-    "victory.subtitle": "Bedankt dat je zo goed voor ze zorgde!",
+    "victory.subtitle": "Bedankt dat je zo goed voor ze hebt gezorgd!",
     "button.play_again": "Opnieuw spelen"
   },
   "audio": {}

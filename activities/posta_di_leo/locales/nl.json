@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Leo's Post",
-    "activity.posta_di_leo.title": "Leo's Post",
+    "activity.title": "Leo's post",
+    "activity.posta_di_leo.title": "Leo's post",
     "activity.posta_di_leo.description": "Maak ansichtkaarten met plaatjes voor je vrienden en verstuur ze met Leo!",
     "friend.leo": "Leo",
     "friend.lilli": "Lilli",

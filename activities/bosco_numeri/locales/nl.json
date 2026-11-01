@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.bosco_numeri.title": "Tito's Getallenbos",
-    "activity.title": "Tito's Getallenbos",
+    "activity.bosco_numeri.title": "Tito's getallenbos",
+    "activity.title": "Tito's getallenbos",
     "victory.title": "Je hebt je getallen geschreven!",
     "button.play_again": "Opnieuw spelen"
   },

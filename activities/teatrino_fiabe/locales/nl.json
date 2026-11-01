@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "Sprookjes-poppentheater",
-    "activity.description": "Maak poppenspelen, neem je eigen verteller-stem op en bewaar magische verhalen!"
+    "activity.title": "Sprookjestheater",
+    "activity.description": "Maak poppenspelen, neem je eigen stem als verteller op en bewaar magische verhalen!"
   },
   "audio": {}
 }

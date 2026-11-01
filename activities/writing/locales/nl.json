@@ -3,8 +3,8 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.writing.title": "Schrijven & Woorden",
-    "activity.title": "Schrijven & Woorden",
+    "activity.writing.title": "Schrijven & woorden",
+    "activity.title": "Schrijven & woorden",
     "btn.new": "Nieuwe pagina",
     "btn.undo": "Ongedaan maken",
     "btn.clear": "Wissen"

@@ -3,10 +3,10 @@
   "locale": "nl",
   "direction": "ltr",
   "strings": {
-    "activity.title": "De Vlucht van de Kleine Draak",
+    "activity.title": "De vlucht van de kleine draak",
     "victory.title": "Wat een vlucht!",
     "victory.subtitle": "Je vloog door elke regenboogring!",
-    "victory.new_look": "Een nieuwe look voor je draak!",
+    "victory.new_look": "Een nieuw uiterlijk voor je draak!",
     "button.fly_again": "Nog een keer vliegen",
     "button.next": "Volgende"
   },
